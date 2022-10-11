@@ -1,0 +1,54 @@
+{
+  "projects": [
+    {
+      "visible": true,
+      "category": "Full Stack App",
+      "title": "Blog App",
+      "description": "This project is a replica of real life blog app. Made using React-redux.",
+      "tags": ["React", "Redux"],
+      "image": {
+        "src": "../../images/blogapp.png",
+        "alt": "Quick Setup",
+        "linkTo": "https://suraj-mane-blog-app-hooks.netlify.app/"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/suraj-mane/blog-app-using-hooks"
+        },
+        {
+          "type": "external",
+          "url": "https://suraj-mane-blog-app-hooks.netlify.app/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "React App",
+      "title": "Shopping  App",
+      "description": "E-commerce shopping cart made using React and Redux.",
+      "tags": ["React", "Redux"],
+      "image": {
+        "src": "../../images/shopping.png",
+        "alt": "Quick Setup",
+        "linkTo": "https://suraj-mane-shopping-cart.netlify.app"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/suraj-mane/shopping-cart-redux"
+        },
+        {
+          "type": "external",
+          "url": "shttps://suraj-mane-shopping-cart.netlify.app"
+        }
+      ]
+    }
+    
+  ],
+  "button": {
+    "visible": true,
+    "label": "Visit on Github",
+    "url": "https://github.com/suraj-mane"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "interests": [
+    {
+      "label": "HTML",
+      "image": {
+        "src": "../../images/html.webp",
+        "alt": ""
+      }
+    },
+    {
+      "label": "CSS",
+      "image": {
+        "src": "../../images/notebook.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "React",
+      "image": {
+        "src": "../../images/react.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Node",
+      "image": {
+        "src": "../../images/node.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Redux",
+      "image": {
+        "src": "../../images/redux.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "JavaScript",
+      "image": {
+        "src": "../../images/js.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "MongoDB",
+      "image": {
+        "src": "../../images/mongo.webp",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Git",
+      "image": {
+        "src": "../../images/git.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Taliwind CSS",
+      "image": {
+        "src": "../../images/tailwind.png",
+        "alt": ""
+      }
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "+ Load More",
+    "initiallyShownInterests": 8
+  }
+}

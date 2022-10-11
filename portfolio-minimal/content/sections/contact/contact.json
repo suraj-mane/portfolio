@@ -1,0 +1,13 @@
+{
+  "name": "Suraj Mane",
+  "email": "sun.mane1100@gmail.com",
+  "description":" ",
+  "image": {
+    "src": "../../images/suraj mane photo.jpeg",
+    "alt": "Gatsby Logo"
+  },
+  "socialProfiles": {
+    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "showIcons": true
+  }
+}

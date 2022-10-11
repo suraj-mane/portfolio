@@ -1,0 +1,22 @@
+{
+  "intro": "Hey",
+  "heroPhoto": {
+    "src": "../../images/lego-dummy.png",
+    "alt": "My Photo"
+  },
+  "image": {
+    "src": "../../images/waving-hand.png",
+    "alt": "Waving Hand Emoji"
+  },
+  "title": "I'm a Suraj Mane",
+  "subtitle": {
+    "prefix": "I am passionate about ",
+    "highlight": "web development",
+    "suffix": "."
+  },
+  "description": "I am a programming enthusiast a learner and a good listener. I have been sharpening my web development skills by building websites and applications for almost a year now. I love working with JavaScript , which is truly an amazing language to build to web applictaions.",
+  "socialProfiles": {
+    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "showIcons": false
+  }
+}
